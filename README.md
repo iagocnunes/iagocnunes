@@ -4,3 +4,10 @@
 <a href="mailto:iagodcn@gmail.com">
   <img align="left" alt="Iago Nunes: Email" width="30px" src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/PNG/Mail.png" />
 </a>
+
+<br />
+<div align="right">
+<a target="_blank">
+    <img width="60" height="60" frameBorder="0" src="https://giphy.com/embed/QNp9V9qZd6pzy" alt="See ya!">
+</a>
+</div>
