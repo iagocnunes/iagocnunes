@@ -7,6 +7,6 @@
 <br />
 <div align="right">
 <a target="_blank">
-    <img width="233" height="380" frameBorder="0" src="https://github.com/iagocnunes/iagocnunes/blob/main/giphy.gif" alt="See ya!">
+    <img width="133" height="280" frameBorder="0" src="https://github.com/iagocnunes/iagocnunes/blob/main/giphy.gif" alt="See ya!">
 </a>
 </div>
