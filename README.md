@@ -8,6 +8,6 @@
 <br />
 <div align="right">
 <a target="_blank">
-    <img width="60" height="60" frameBorder="0" src="https://giphy.com/embed/QNp9V9qZd6pzy" alt="See ya!">
+    <iframe src="https://giphy.com/embed/QNp9V9qZd6pzy" width="60" height="70" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </a>
 </div>
